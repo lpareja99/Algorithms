@@ -1,0 +1,30 @@
+Rules for the program:
+
+- A tweet per line
+- A hastag per tweet
+
+Ideas Laura:
+- Every hastag has a number asigned so a tweet can be identify by looking the hash tag.(location for the open hasing)
+
+- 
+
+
+
+2. GOALS FOR THE PROGRAM:
+
+LAURA:
+  a. Given a txt file with different hash tag, read and be able to      identify every hash tag.
+      *How?:
+        - By dividing entry every line and putting them in an array?
+
+  b. Be able to add new hash tag to the existed txt file.
+      * By adding them to the existing array as a new entry and them put them back in the file.
+
+  c. Given a specific hash tag. Be able to return a list of the tweets containing that hash tag
+      * Create an array that would contain every hash tag that appear,
+      if a new hash tag appear, then added to the array as a new entry.
+          - Do we include the simbol (#) on it?
+      * we asked for a certain hash tag:
+          -Look for it on the array so we know if it is there or not.
+      
+  d. where do we implement de open hasing?
