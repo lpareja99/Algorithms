@@ -292,9 +292,9 @@ def returnTweets(hashtag):
 
 def main():
 
-	print('#####################################################')
-	print('#####Welcome to TweetDB, a basic tweet database.#####')
-	print('#####################################################')
+	print('#######################################################')
+	print('##### Welcome to TweetDB, a basic tweet database. #####')
+	print('#######################################################')
 	print('')
 	print(
 	    'Type add to add a tweet, or type return to return the tweets we stored.'
